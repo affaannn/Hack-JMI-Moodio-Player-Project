@@ -1,0 +1,237 @@
+body, html {
+  scroll-behavior: smooth;
+
+}
+
+#header {
+
+  
+  
+}
+.abc{
+  
+ 
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.back{
+
+    background-image: url('images/appi1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 2px;
+    width: 200opx;
+    background-color: burlywood;
+
+}
+.navbar {
+  padding: 0;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: 'Montserrat-Thin';
+    font-size: 1.4rem;
+    line-height: 1.2rem;
+}
+
+.head{
+    display: flex;
+    ;
+    margin-right: 300px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+body{
+    font-family: 'Baloo+Bhaina+2',cursive ;
+    margin: 0px;
+    padding: 0px;
+   
+    height: 700px;
+    background-size: 1535px 745px;
+    background-color: burlywood;
+
+    
+    background-repeat: no-repeat;
+}
+.left{
+    margin: 0px;
+    display: inline-block;
+    /* border: 2px solid red; */
+    position: absolute;
+    left: 67px;
+    top: 0px;
+    
+    
+    
+}
+
+
+.img{
+  width: 30%;
+  position: absolute;
+  right: 55%;
+  top: 90%;
+  margin-top: -50%;
+  margin-right: 20%;
+  color: pink;
+  
+  
+}
+.left div{
+text-align: center;
+}
+.mid{
+display: block;
+width: 50%;
+margin: 20px auto;
+margin-left: 760px;
+width: auto;
+
+/* border: 2px solid green; */
+
+}
+
+.navbar{
+display: inline-block;
+margin: 30px;
+
+
+}
+.navbar li{
+display: inline-block;
+font-size: 25px;
+border: 3px solid rgb(171, 179, 170);
+border-radius: 10px;
+background-color: white;
+margin: 3px;
+
+}
+.navbar li a{
+color: rgb(245, 120, 141);
+text-decoration: none;
+padding: 34px 0px;
+
+}
+.gap{
+    text-decoration: none;
+    
+
+}
+
+
+
+.navbar li a:hover, .navbar li a.active{
+
+color: rgb(247, 240, 240);
+
+
+}
+.text:hover{
+background-color: rgb(156, 156, 194);
+}
+.img1 img{
+height: 750px;
+width: 1535px;
+
+
+}
+
+.drop{
+color: rgb(245, 120, 141);
+text-decoration: none;
+background-color: white ;
+border: 3px solid rgb(171, 179, 170);
+border-radius: 10px;
+font-size: large;
+
+}
+.drop:hover{
+background-color: rgb(245, 120, 141);
+
+}
+.dropdown-toggle{
+background-color: pink;
+color: rgb(250, 243, 244);
+}
+
+.dropdown-menu{
+    height: auto;
+    width: auto;
+    background-color: #ffffff;
+    position: relative;
+    padding: 500%;
+    margin: 500;
+    align-items: center;
+    size: 500px;
+}
+.font {
+  color: rgb(245, 120, 141);
+  font-size: 3.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.font:hover {
+  color: rgb(245, 120, 141);
+}
+
+.foot {
+  color: rgb(245, 120, 141);
+  font-size: 1.5rem;
+  margin: auto;
+  padding-left: 15%;
+}
+
+.foot:hover {
+  color: rgb(200, 200, 214);
+}
+.right{
+    margin-top: 100px;
+}
+.quote{
+    margin-top: 20px;
+    margin-left: 450px;
+    height: 100px;
+    width: 500px;
+    
+}
+.camera{
+    height: 100px;
+    width: 100px;
+    border: 5px solid white;
+    border-radius: 100px;
+    background-color: rgb(247, 107, 165) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+.camera:hover{
+    background-color: grey;
+}
+.cam1{
+    height: 70px;
+    width: 70px;
+}
+.what{
+    height: 50px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: 40px;
+}
